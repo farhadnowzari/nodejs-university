@@ -1,0 +1,14 @@
+{
+  "realm": "university",
+  "auth-server-url": "https://identity.farhad.home/",
+  "ssl-required": "external",
+  "resource": "authz",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "XwB4lr8eczFVRKYzJWZKbjy6NIIb9nuL"
+  },
+  "confidential-port": 0,
+  "policy-enforcer": {
+    "credentials": {}
+  }
+}
