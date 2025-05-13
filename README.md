@@ -20,5 +20,6 @@ yarn db:migrate
 
 This command will have your database updated and will generate the prisma client under `generated/prisma` for you.
 
+Now, go on and download your own `keycloak.json` as described in the video and put it in the root directory.
 
 If everything up to this point ran fine, you should be able to `yarn dev` the project and test it out.
