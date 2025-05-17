@@ -1,5 +1,8 @@
 This repository is made for education purposes to help developers close the gap between keycloak and nodejs. Essentially it should help everyone to understand the authorization flow better in nodejs.
 
+
+Youtube: https://youtu.be/Ov9bkRETzTk?si=hDwPVxhh9BiJej_f
+
 ## Run the project
 First run the `yarn` command to install everything. The project is using `volta` so you can have your nodejs and yarn version configured.
 
